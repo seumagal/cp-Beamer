@@ -1,0 +1,8 @@
+\babel@toc {brazilian}{}
+\beamer@sectionintoc {1}{Objetivo}{2}{0}{1}
+\beamer@sectionintoc {2}{Modelo}{3}{0}{2}
+\beamer@sectionintoc {3}{Proposta}{7}{0}{3}
+\beamer@sectionintoc {4}{Controle}{8}{0}{4}
+\beamer@sectionintoc {5}{Resultados}{10}{0}{5}
+\beamer@sectionintoc {6}{Resultados}{12}{0}{6}
+\beamer@sectionintoc {7}{Conclus\IeC {\~a}o}{14}{0}{7}
